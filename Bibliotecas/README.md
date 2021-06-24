@@ -1,6 +1,6 @@
 # AV2 - Comparação entre Biblioteca Estruturada e Biblioteca Orientada a Objeto
 
-O diretório atual conta com os elementos desenvolvidos para apresentção na disciplina de Programação Orientada a Objetos II para a avaliação sobre bibliotecas ereúso de software.
+O diretório atual conta com os elementos desenvolvidos para apresentção na disciplina de Programação Orientada a Objetos II para a avaliação sobre bibliotecas e reúso de software.
 
 ## Sobre o Trabalho Desenvolvido
 
