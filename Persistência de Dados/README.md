@@ -18,7 +18,7 @@ Ao tratar de persistência de dados, é possível notar um grande vínculo com o
 
 Tendo percebido tal fato, optou-se para o desenvolvimento de um conjunto de classes que, mesmo não sendo possível (ou apenas uma tarefa mais árdua) de implementar todo o conjunto reutilizável, ainda possibilitaria que certos elementos atendessem aos requisitos de reusabilidade da avaliação.
 
-Para o desenvolvimento das classes escolheu-se focar no contexto de registro de aluguel de carros genérico, onde os clientes (que podem ser tanto pessoa física quanto jurídica) escolhem planos de aluguel e algum veículo disponível naquele plano para realizar a locação. Ainda tentou-se agregar elementos extras para encorporar a biblioteca de classes, sendo exemplos a adição de cupons de desconto e parcelamento do aluguel.
+Para o desenvolvimento das classes escolheu-se focar no contexto de registro de aluguel de carros genérico, onde os clientes (que podem ser tanto pessoa física quanto jurídica) escolhem planos de aluguel e algum veículo disponível naquele plano para realizar a locação. Ainda tentou-se agregar elementos extras para incorporar a biblioteca de classes, sendo exemplos a adição de cupons de desconto e parcelamento do aluguel.
 
 Como é possível observar no diagrama de classes do projeto, tem-se ao total cerca de 9 classes para a modelagem desse cenário. Cada classes é utilizada para persistir os dados em um banco de dados sqllite através da linguagem Python e do framework SQLAlchemy (Mais detalhes na seção de Como Executar). A título de especificação, logo abaixo é possível observar uma pequena explicação do propósito de cada classe conforme elas foram pensadas e modeladas.
 
